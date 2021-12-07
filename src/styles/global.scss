@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px 'Helvetica Neue', Arial, sans-serif;
+  background: var(--background-1);
+}
+
+:root {
+  --font-1: #e1e1e6;
+  --font-2: #c4c4cc;
+  --background-1: #121214;
+  --background-2: #202024;
+  --background-3: #2a292f;
+
+  --hover-background-3: #323238;
+}

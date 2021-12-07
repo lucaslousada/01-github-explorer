@@ -6,10 +6,10 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lucaslousada/01-github-explorer?color=323238&style=flat-square)](#)
 [![License](https://img.shields.io/github/license/lucaslousada/01-github-explorer?color=323238&style=flat-square)](LICENSE.md)
 
-Este é o primeiro projeto do curso Ignite da Rocketseat, que foca nos fundamentos do front-end dentro do ReactJS.
+Um projeto que lista todos os repositórios públicos do seu GitHub. Este é o primeiro projeto do curso Ignite da Rocketseat, que foca nos fundamentos do front-end dentro do ReactJS.
 
 Foi ensinado como configurar a estrutura de um projeto ReactJS do zero, configurando webpack, babel, typescript e pré-processadores CSS sem ferramentas como create-react-app.
 
-E também conceitos como: SPA, ambiente de desenvolvimento e de produção, componentização, useState, useEffect, imutabilidade, propriedades, typescript e consumo de uma API com a listagem dos dados recebidos em vários componentes.
+Também foram ensinados conceitos como: SPA, ambiente de desenvolvimento e de produção, componentização, useState, useEffect, imutabilidade, propriedades, typescript e consumo de uma API com a listagem dos dados recebidos em vários componentes.
 
 <img alt="App Preview" src="./.github/app-preview.jpg" width="100%">

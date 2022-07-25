@@ -11,7 +11,7 @@ Aplicação desenvolvida no primeiro capítulo do curso Ignite da Rocketseat, qu
 [![License](https://img.shields.io/github/license/lucaslousada/github-explorer?color=323238&style=flat-square)](LICENSE.md)
 
 <div>
-  <img alt="App Preview" src="./.github/app-preview.jpg" width="100%">
+  <img alt="App Preview" src="./.github/app-preview.png" width="100%">
 </div>
 
 ## Tecnologias

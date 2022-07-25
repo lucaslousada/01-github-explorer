@@ -1,10 +1,8 @@
 ## GitHub Explorer
 
-Um projeto que lista todos os repositórios públicos do seu GitHub. Este é o primeiro projeto do curso Ignite da Rocketseat, que foca nos fundamentos do front-end dentro do ReactJS.
+Um projeto que lista todos os repositórios públicos do seu GitHub.
 
-Foi ensinado como configurar a estrutura de um projeto ReactJS do zero, configurando webpack, babel, typescript e pré-processadores CSS sem ferramentas como create-react-app.
-
-Também foi ensinado conceitos como: SPA, ambiente de desenvolvimento e de produção, componentes, useState, useEffect, imutabilidade, propriedades, typescript e consumo de uma API com a listagem dos dados em vários componentes.
+Aplicação desenvolvida no primeiro capítulo do curso Ignite da Rocketseat, que foca nos fundamentos do front-end dentro do ReactJS.
 
 [![Author](https://img.shields.io/badge/author-Lucas_Lousada-323238?style=flat-square)](https://github.com/lucaslousada)
 [![Last commit](https://img.shields.io/github/last-commit/lucaslousada/github-explorer?color=323238&style=flat-square)](#)
